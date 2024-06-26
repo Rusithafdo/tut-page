@@ -1,0 +1,21 @@
+			body {background-color:gainsboro; font-family: Arial,  sans-serif;}
+			h2 { padding:3px; background-color:lightblue ;}
+			#navbar li { display:inline; padding-right: 20px; }
+			table {border: 1px solid black; width: 100%; background-color: lightblue; }
+			div {padding-right: 5px; }
+
+			#table {
+				overflow: hidden;
+				position: fixed;
+				top: 0px;
+				left: 0px;
+				border-radius: 0;
+				width :100%;
+			}
+
+			#left {
+				vertical-align: middle;
+				float:left;
+				padding-right: 5px;
+				
+			}
